@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 addOutputToTerminal('Check out our latest games...');
                 break;
             case 'discord':
-                addOutputToTerminal('Join our Discord community <a href="YOUR_DISCORD_LINK" target="_blank">here</a>.');
+                addOutputToTerminal('Join our Discord community <a href="https://discord.gg/WYcGpjR63J" target="_blank">here</a>.');
                 break;
             default:
                 addOutputToTerminal('Command not recognized. Try \'Mods\', \'Games\', or \'Discord\'.');
